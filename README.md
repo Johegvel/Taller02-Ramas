@@ -12,3 +12,6 @@ Lider:
 
 Integrante 1 (cambios) : 
 ![alt text](capturain1.png)
+
+Integrante 3:
+![alt text](image.png)
